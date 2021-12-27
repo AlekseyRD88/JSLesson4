@@ -1,3 +1,4 @@
 no-var
 eqeqeq
 no-return-assign
+no-return-assign
